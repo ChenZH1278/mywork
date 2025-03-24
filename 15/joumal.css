@@ -1,0 +1,23 @@
+p {
+  /* font-family: 'Segoe Script'; */
+  color:blue;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Arial;
+}
+h1,h2{
+    border-bottom: thin dotted #888888;
+    color: #CC6600;
+  
+}
+
+blockquote {
+  font-style: italic;
+}
+h1 {
+  font-size: 26.4px;
+}
+
+h2 {
+ font-weight: normal;
+  font-size: 15.6px;
+}
