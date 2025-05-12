@@ -1,0 +1,13 @@
+body{
+  background-image: url(./pic/图片3.jpg);
+}
+h1{
+  color: aliceblue;
+}
+p{
+  color: aliceblue;
+}
+.cnm{
+  float: right;
+
+}
