@@ -1,0 +1,17 @@
+/* 优化 .qw 类 */
+.qw {
+  background: linear-gradient(180deg,
+   #2b2618, #000),url(./pic/图片2.png); 
+  padding: 100px 250px 50px; 
+  border: solid;
+  position: relative;
+  color: white;
+  background-size: 10px auto; 
+  /* background-blend-mode: overlay; */
+}
+
+/* .wenzi 类保持不变，若注释不再需要可删除 */
+.wenzi {
+  float: right;
+}
+
