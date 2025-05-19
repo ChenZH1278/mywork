@@ -14,4 +14,17 @@
 .wenzi {
   float: right;
 }
+.center-text {
+  display: block;
+  text-align: center;
+}
+.centered-heading {
+  text-align: center;
+}
 
+/* 容器样式 */
+/* .qw {
+  display: flex;
+  flex-direction: column;
+}
+ */
