@@ -1,7 +1,7 @@
 /* 优化 .qw 类 */
 .qw {
   background: linear-gradient(180deg,
-   #2b2618, #000),url(./pic/图片2.png); 
+   #635120, #000),url(./pic/图片2.png); 
   padding: 100px 250px 50px; 
   border: solid;
   position: relative;
@@ -28,3 +28,22 @@
   flex-direction: column;
 }
  */
+.TRYTHEMNOW {
+  position: absolute;  /* 缺少分号 */
+  bottom: 620px;
+  right: 380px;
+  padding: 10px 20px;
+  background-color: #634f17;
+  color: white;
+  font-weight: bold;
+  border: 1px solid transparent;
+  border-radius: 50px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s;  /* 逗号应改为点号 */
+  margin: 10px;
+}
+.TRYTHEMNOW:hover{
+  background-color: #000;
+  border-color: white;
+}
