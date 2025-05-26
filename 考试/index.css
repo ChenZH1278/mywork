@@ -44,7 +44,7 @@ body{
   border:1px solid white;
   margin: 0px;
   position: absolute;  /* 缺少分号 */
-  bottom: 700px;
+  bottom: 1240px;
   right: 380px;
   padding: 10px 20px;
   background-color: black;
